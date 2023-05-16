@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi!👋 My name is Aileen, and I'm a rising junior at the University of Michigan.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aileen-ji)](https://github-readme-stats.vercel.app/api?username=aileen-ji&count_private=true&show_icons=true)
 <!--
 **aileen-ji/aileen-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
