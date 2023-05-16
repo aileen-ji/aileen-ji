@@ -1,4 +1,8 @@
-### Hi!👋 My name is Aileen, and I'm a rising junior at the University of Michigan.
+### 🌱 Hi! My name is Aileen, and I'm a junior at the University of Michigan. 🌱
+🔭 Major: Computer science and Asian studies  
+📫 How to reach me: [email](aileenji@umich.edu)  
+😄 Pronouns: she/her/hers  
+⚡ Fun fact: I speak English, Mandarin Chinese and Japanese! Hoping to learn more languages (including programming languages lol)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aileen-ji)](https://github-readme-stats.vercel.app/api?username=aileen-ji&count_private=true&show_icons=true)
 <!--
